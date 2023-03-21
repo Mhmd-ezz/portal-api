@@ -1,11 +1,4 @@
-## Tasks
--Requests per Month ma3 filter per country
--Requests per solution (mitel li bil financial)
 
-Request per month per resource
-Requests per Month for all requests
-in financial add card (total profit)
-use products
 
 ## References
 https://www.toptal.com/laravel/passport-tutorial-auth-user-access
